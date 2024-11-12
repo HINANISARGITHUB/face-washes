@@ -1,0 +1,86 @@
+img {
+    width: 130px;
+    height: 130px;
+    border-radius: 65%;
+    border: 2px ridge;
+    
+}
+
+.lastraw-names {
+    display: inline-block;
+    margin: 0 36px 0 36px;
+    width: 120px;
+
+}
+
+#lastraw-images
+{
+    margin: 0 10px 0 25px;
+}
+
+.border {
+    border: 4px ridge black;
+}
+
+body {
+    background-color:floralwhite
+}
+
+h1 {
+    color: rgb(230, 112, 73);
+    font-size: 60px;
+    text-decoration: underline dimgray;
+    text-align: center;
+}
+
+h2 {
+    color: darkslateblue;
+    font-size: 40px;
+    text-decoration: underline dimgray;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+p {
+    background-color:olive;
+    border-radius: 10px;
+    color:white;
+    margin: 0px;
+   
+}
+
+#ceta-img {
+    border-radius: 138px ;
+    width: 276px;
+    height: 276px;
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+
+#ceta-name {
+    font-size: 25px;
+    position: relative;
+    bottom: 135px;
+    left: 50px;
+    
+}
+
+#pic1{
+    position:relative;
+    left: 40px;
+    right: 0px; 
+}
+
+#pic2 {
+    position: relative;
+    left: 20px;
+    right: 0px;
+}
+
+#pic3 {
+    position: relative;
+    right: 20px;
+}
